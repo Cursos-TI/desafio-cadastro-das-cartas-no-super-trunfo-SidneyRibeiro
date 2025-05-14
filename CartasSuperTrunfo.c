@@ -17,6 +17,22 @@ int main() {
     // Exibição dos Dados das Cartas:
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
+Printf("Desafio Cartas Super Trunfo\n");
+
+    int populacao, pontos turisticos;
+    float area, pib;
+    char codigo da cidade;
+    char nome da cidade [50];
+
+
+ 
+
+
+
+
+
+
+
 
     return 0;
 }
